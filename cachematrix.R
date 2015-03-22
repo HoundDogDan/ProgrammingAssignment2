@@ -19,7 +19,7 @@ makeCacheMatrix <- function( x = matrix() ) {
                                       ## the inverse
         }
 
-        getmatrix <- function() { 
+        getmatrix <- function() {     ##returns the current matrix
             x 
         }
         
